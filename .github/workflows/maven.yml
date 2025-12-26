@@ -28,6 +28,6 @@ jobs:
     - name: Upload Build Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: Airlock-Build
+        name: Click here to download
         path: target/Airlock-*.jar
         if-no-files-found: error
