@@ -1,0 +1,6 @@
+name: ${project.artifactId}
+version: ${project.version}
+api-version: 1.21
+
+author: purpurcof
+main: me.purpurcof.airlock.AirlockPlugin
