@@ -1,0 +1,3 @@
+# Any IP not listed here will be terminated at the TCP Handshake level
+allowed-ips:
+  - "127.0.0.1"
